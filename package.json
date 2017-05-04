@@ -1,0 +1,26 @@
+{
+  "name": "promise-flow",
+  "version": "1.0.0",
+  "description": "Wait for promise to resolve before performing the next",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idanen/promise-flow.git"
+  },
+  "keywords": [
+    "promise",
+    "subseqential",
+    "sequence",
+    "chain"
+  ],
+  "author": "Idan Entin <idanen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idanen/promise-flow/issues"
+  },
+  "homepage": "https://github.com/idanen/promise-flow#readme",
+  "dependencies": {}
+}
