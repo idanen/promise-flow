@@ -1,5 +1,6 @@
 # promise-flow
-Wait for promise to resolve before performing the next.
+- Use this to process an input through several async functions, one after the other OR
+- Process several inputs through an async function
 
 ## Can be used in 2 ways:
 1. When you want to pass data through multiple processing functions, all returning a promise:
