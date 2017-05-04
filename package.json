@@ -1,7 +1,7 @@
 {
   "name": "promise-flow",
   "version": "1.0.0",
-  "description": "Wait for promise to resolve before performing the next",
+  "description": "Flow through several \"promising\" functions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
